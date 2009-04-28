@@ -1,0 +1,6 @@
+From: Giulio Eulisse <giulio.eulisse@cern.ch>
+Subject: [PATCH] jpsconf-patches
+
+Trying to write an XSLT stylesheet for the jpsconf template.
+
+Signed-off-by: Giulio Eulisse <giulio.eulisse@cern.ch>
